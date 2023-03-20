@@ -31,6 +31,38 @@
 29. **input**: Pinta un campo de introducción de datos para el usuario
 30. **label**: Se usa para definir el nombre o título de un control del formulario
 
+##30 estilos de css
+1. **all**: 	Establece el valor de todas las propiedades del elemento seleccionado
+2. **animation-duration	**: Especifica cuánto tiempo debe tomar una animación para completar un ciclo
+3. **background-color**: 	Establece el color de fondo de un elemento
+4. **background-image**: Establece una o más imágenes de fondo para un elemento
+5. **background-origin**: 
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+
 
 
 
